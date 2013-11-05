@@ -1,0 +1,238 @@
+html {
+        background-image:url(farmerMarket.jpg);
+        background-size: 1632px 1224px;
+        position:fixed;
+        
+        }
+        
+body {
+ font-family: Arial Rounded MT Bold;
+ }
+ 
+#apples, #avocado, #asparagus, #blackberries,
+#blueberries, #brusselSprouts, #cherries, #cucumber,
+#eggplant, #oranges, #peas, #redCabbage,
+#rhubarb, #spinach, #squash, #sweetPotatoes, #turnips: hover {
+	background-color: white;
+	width: 10px;
+}
+ 
+h1 {
+border: 3px solid black;
+background-color: #CCFB5D;
+margin-left: 100px;
+color: black;
+font-size: 52px;
+text-align:center;
+width: 900px;
+}
+
+h4 {
+border: 3px solid black;
+background-color: #CCFB5D;
+margin-left: 230px;
+color: black;
+width: 605px;
+}
+
+#fall{
+		color: black;
+		background-color: #3EA055;
+ 		border: 3px solid black;
+        height: 20px; 
+        width: 75px;
+        text-align:center;
+        float: left;
+        margin-left: 190px;
+        margin-right: 30px;
+}
+
+#winter{
+		color: black;
+		background-color:#6CBB3C;
+ 		border: 3px solid black;
+        height: 20px; 
+        width: 75px;
+        text-align:center;
+        float: left;
+        margin-left: 100px;
+        margin-right: 30px;
+}
+
+#spring{
+		color: black;
+		background-color:#6CC417;
+ 		border: 3px solid black;
+        height: 20px; 
+        width: 75px;
+        text-align:center;
+        float: left;
+        margin-left: 100px;
+        margin-right: 30px;
+}
+
+#summer{
+		color: black;
+		background-color:#4CC417;
+ 		border: 3px solid black;
+        height: 20px; 
+        width: 75px;
+        text-align:center;
+        float: left;
+        margin-left: 100px;
+        margin-right: 30px;
+}  
+        
+#apples {
+	color:white;
+}
+	.appleRed {
+		background-color:#E56717;
+		width: 270px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#avocado {
+	color:white;
+}
+	.avocadoGreen {
+		background-color:#B2C248;
+		width: 693px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+ 
+
+#asparagus {
+	color:white;
+}
+	.asparagusGreen {
+		background-color:#728C00;
+		width: 905px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#blackberries {
+	color:white;
+}
+	.blackberriesBlack {
+		background-color:#2B1B17;
+		width:270px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#blueberries {
+	color: white;
+}
+	.blueberriesBlue {
+		background-color:#157DEC;
+		width: 905px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#brusselSprouts {
+	color:white;
+}
+	.brusselSproutsGreen {
+		background-color:#6AA121;
+		width: 480px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#cherries {
+	color:white;
+}
+	.cherriesRed {
+		background-color:#F62217;
+		width: 905px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#cucumber {
+	color:white;
+}
+	.cucumberGreen {
+		background-color:#CCFB5D;
+		width: 693px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#eggplant {
+	color:white;
+}
+	.eggplantPurple {
+		background-color:#7D0541;
+		width: 270px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+	
+#oranges {
+	color:white;
+}
+	.orangeOrange {
+		background-color:#FFA62F;
+		width: 480px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#peas {
+	color:white;
+}
+	.peasGreen {
+		background-color:#BCE954;
+		width: 905px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+	
+#redCabbage {
+	color:white;
+}
+	.redCabbageRed {
+		background-color:#800517;
+		width: 270px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+	
+#rhubarb {
+	color:white;
+}
+	.rhubarbRed {
+		background-color:#C11B17;
+		width: 693px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#spinach {
+	color:white;
+}
+	.spinachGreen {
+		background-color:#347235;
+		width: 693px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#squash {
+	color:white;
+}
+	.squashYellow {
+		background-color:#FFDB58;
+		width: 270px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#sweetPotatoes {
+	color:white;
+}
+	.sweetPotatoesOrange {
+		background-color:#FFA62F;
+		width: 480px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
+
+#turnips {
+	color:white;
+}
+	.turnipsYellow {
+		background-color:#FFF380;
+		width: 480px;
+		-webkit-transition:width 5s, height 5s, background-color 5s;
+	} 
